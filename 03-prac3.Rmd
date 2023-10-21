@@ -685,7 +685,7 @@ ihist<-plot_ly(alpha = 0.6) %>%
 
 ihist
 ```
-This format of code where you set lots of varaibles then call them within a plot, package or fuction is sometihng you should become more familiar with as it's considerd good practice. If you were to go on and produce multiple plots using the same legends / aesthetics you only ahve to set them once. 
+This format of code where you set lots of varaibles then call them within a plot, package or fuction is sometihng(something) you should become more familiar with as it's considerd good practice. If you were to go on and produce multiple plots using the same legends / aesthetics you only ahve to set them once. 
 
 Ok so enough with the histograms...the point is to think about how to best display your data both effectively and efficiently. 
 
